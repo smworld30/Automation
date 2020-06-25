@@ -8,7 +8,7 @@
 <body >
 <div Style ="text-align: center ">
 <h1 >Create your changes here</h1>
-<P Style ="font-weight: Bold ">Best Of Luck :) </P>
+<P Style ="font-weight: Bold ">Best Of Luck :)</P>
 </div>
 
 
